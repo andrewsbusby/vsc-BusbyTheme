@@ -4,7 +4,31 @@
 		"editor.background": "#011404",
 		"editor.foreground": "#36b42a",
 		"activityBarBadge.background": "#487D02",
-		"sideBarTitle.foreground": "#97C900"
+		"window.activeBorder": "#2efd61",
+		"toolbar.hoverBackground" : "#04b19a",
+		"toolbar.hoverOutline": "#03745b",
+		"toolbar.activeBackground": "#0cad8ab9",
+		"button.background": "#03745b",
+		"button.foreground": "#0ec59e",
+		"button.border": "#033474",
+		"button.separator": "#03743c",
+		"button.hoverBackground": "#03743c",
+		"button.secondaryForeground": "#0ec59e",
+		"button.secondaryBackground": "#03745b",
+		"button.secondaryHoverBackground": "#03743c",
+		"dropdown.background": "#011d0d",
+		"dropdown.listBackground": "#03241d",
+		"dropdown.border": "#033474",
+		"dropdown.foreground": "#c9c60c",
+		"sideBar.background": "#042001d8",
+		"sideBar.foreground": "#73bb00",
+		"sideBar.border": "#018141",
+		"sideBar.dropBackground": "#280042",
+		"sideBarTitle.foreground": "#cca808",
+		"sideBarSectionHeader.background": "#014417",
+		"sideBarSectionHeader.foreground": "#bba904",
+		"sideBarSectionHeader.border": "#056e97",
+		
 	},
 	"tokenColors": [
 		{
@@ -623,6 +647,8 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
-		}
+		},
+		
+		
 	]
 }
