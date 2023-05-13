@@ -1,0 +1,21 @@
+{
+  "name": "busby",
+  "displayName": "Busby",
+  "description": "first try at a color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Busby",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Busby-color-theme.json"
+      }
+    ]
+  }
+}
