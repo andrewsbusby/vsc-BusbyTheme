@@ -1,8 +1,8 @@
 {
 	"name": "Busby",
 	"colors": {
-		"editor.background": "#011d06",
-		"editor.foreground": "#38cf2a",
+		"editor.background": "#011404",
+		"editor.foreground": "#36b42a",
 		"activityBarBadge.background": "#487D02",
 		"sideBarTitle.foreground": "#97C900"
 	},
