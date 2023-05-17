@@ -3,9 +3,8 @@
   "displayName": "Busby",
   "publisher": "Busby",
   "description": "first try at a color theme",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "engines": {
-    
     "vscode": "^1.78.0"
   },
   "categories": [

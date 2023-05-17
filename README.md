@@ -2,7 +2,7 @@
 
 ## Green Background Color Theme
 
-This is my first attempt at creating a theme for Visual Studio Code. 
+This is my firt attempt at creating a theme for Visual Studio Code. 
 
 Let me know if there are any issues or suggestions for updates or changes that you would like to see.
 
