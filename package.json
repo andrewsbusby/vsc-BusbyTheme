@@ -17,6 +17,13 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Busby-color-theme.json"
       }
+    ],
+    "themes2": [
+      {
+        "label": "BusbyRed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Busby-color-red.json"
+      }
     ]
   },
   "repository": {
